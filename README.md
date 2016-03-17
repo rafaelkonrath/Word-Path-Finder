@@ -6,8 +6,7 @@ The problem is to find “word paths”. What this means is that you find a path
 another word, changing one letter each step, and each intermediate word must be in the 
 dictionary.
 
-We tend to use the dictionary file on a unix/linux/mac in /usr/share/dict/words. If you do not have 
-a copy of this file, please let us know.
+We tend to use the dictionary file on a linux in /usr/share/dict/words. 
 
 Some example solutions:
 
